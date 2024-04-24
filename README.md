@@ -23,3 +23,9 @@ Contributors:
 
 - [Yanghun Tay](http://github.com/yangshun)
 - [Emmanuel Goh](http://github.com/emman27)
+
+AI Developments:
+==
+
+- [Minh Uyen Nguyen](https://github.com/uyennguyen0901)
+- [Caleb Sannes](Please put your githu in here)
